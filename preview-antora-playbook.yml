@@ -85,8 +85,8 @@ content:
 #    branches: [neo, 7.1.x-docs, cheshire-cat, mad-hatter]
 #    start_path: docs
   # NOTE docs-server is currently after other server repos so nav key wins
-  - url: ../docs-server
-    branches: [HEAD]
+  - url: https://github.com/couchbase/docs-server
+    branches: [DOC-11167-couchbstore-magma-upgrade]
 #   - url: https://github.com/couchbase/docs-sdk-common
 #     branches: [release/7.1.2, release/7.1, release/7.0, release/6.6, release/6.5]
 #   - url: https://github.com/couchbase/docs-sdk-c
