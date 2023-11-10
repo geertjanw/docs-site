@@ -42,7 +42,7 @@ content:
     start_path: home
   - url: https://github.com/couchbaselabs/docs-devex
     # branches: [release/7.2, capella, elixir]
-    branches: [release/7.2, capella]
+    branches: [DOC-11187_gsi_faster_rebalance,release/7.2, capella]
   - url: https://github.com/couchbaselabs/cb-swagger
     branches: [release/7.2]
     start_path: docs
